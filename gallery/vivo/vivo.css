@@ -1,0 +1,109 @@
+
+ .logo1{
+    width: 50px
+
+}
+.galaxy{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+ h5{
+     padding-top: 10px;
+ }
+
+
+
+ .vivo{
+    
+    width: 20%;
+    margin-left: 10px;
+}
+
+.logo{
+    width: 100px;
+    margin-right: 10px;
+}
+.iphone{
+    width: 20%;
+    margin-left: 10px;
+}
+
+.line{
+    margin: 0px 20px 0px 20px; 
+   width: 30px;
+   height: 3px;
+   /* background-color: #749c45; */
+   display: inline-block;
+
+}
+
+.file0{
+    margin-top: 15px;
+    width: 24%;
+}
+.file1{
+    margin: 5px;
+    width: 28%;
+
+} 
+.file2{
+    margin-top: 18px;
+    width:30%;
+}
+
+.file3{ 
+    
+    width: 18%;
+} 
+
+.file4{
+    width: 72px;
+}
+.file5{
+    width: 13%;
+}
+.file6{
+    width: 22%;
+}
+.file11{
+    width: 23%;
+}
+
+
+/* 
+.iphonex{
+    margin-top :15px ;
+} */
+
+.file10{
+    width: 110px;
+}
+
+.sec{
+    padding-top: 50px;
+}
+.section{ 
+    /* background-color: #808080 !important; */
+    padding-bottom: 20px;
+    margin-top: 100px;
+    line-height: 30px;
+}
+
+.font{
+
+    font-weight: bold;
+    font-size: 15px;
+}
+/* 
+.img{
+    /* margin-bottom: 10px; */
+    /* border: 1px solid black; */
+}
+.content1 img{
+    margin-bottom: 40px;
+}
+.content2{
+    margin-bottom: 150px !important;
+}

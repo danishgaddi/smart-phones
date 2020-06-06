@@ -1,0 +1,53 @@
+.logo1{
+    width: 50px
+
+}
+.galaxy{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+
+ h5{
+     padding-top: 10px;
+ }
+
+ .logo{
+    width: 100px;
+    margin-right: 10px;
+}
+/* 
+.infinix{
+    width: 200px;
+} */
+
+.infinix{
+    width: 20%;
+    margin-left: 10px;
+}
+
+.line{
+    margin: 0px 20px 0px 20px; 
+   width: 30px;
+   height: 3px;
+  
+   display: inline-block;
+
+}
+
+.file1{
+    width: 100px;
+}
+.file2{
+    width: 75px;
+}
+
+
+.content2{
+    margin-bottom: 150px !important;
+}
+
+ul li{
+    font-weight: bold;
+}

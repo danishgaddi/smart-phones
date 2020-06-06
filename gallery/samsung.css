@@ -1,0 +1,71 @@
+.logo1{
+    width: 50px
+
+}
+.galaxy{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+
+
+.logo{
+    width: 100px;
+    margin-right: 10px;
+}
+
+.file1{
+    margin: 5px;
+    width: 100px;
+}
+
+.content1{
+    margin-top: 100px;
+    margin-bottom:50px ;
+}
+.marg{
+    margin-bottom: 70px;
+}
+
+.samsung{
+    
+    width: 20%;
+    margin-left: 10px;
+}
+.line{
+    margin: 0px 20px 0px 20px; 
+   width: 30px;
+   height: 3px;
+   /* background-color: #749c45; */
+   display: inline-block;
+
+}
+
+
+.sec{
+    padding-top: 50px;
+}
+.section{
+    padding-bottom: 20px;
+    margin-top: 100px;
+    line-height: 30px;
+}
+
+.font{
+
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.content1 img {
+    
+    margin-bottom: 40px;
+}
+
+
+.content2{
+    margin-bottom: 150px !important;
+}
+
+

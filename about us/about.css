@@ -1,0 +1,66 @@
+.logo1{
+    width: 50px
+
+}
+.galaxy{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+ h5{
+     padding-top: 10px;
+ }
+
+ 
+.logo{
+    width: 100px;
+    margin-right: 10px;
+}
+
+.font{
+
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.logo2{
+    width: 100px;
+    
+}
+
+.fa-handshake-o,.fa-headphones,.fa-truck,.fa-money,.fa-thumbs-o-up{
+    font-size: 70px;
+    margin-bottom: 23px;
+}
+
+.content{
+  
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.my{
+    margin-top: 40px;
+    margin-bottom: 22px;
+}
+
+.sec{
+    padding-top: 50px;
+}
+.section{
+    padding-bottom: 20px;
+    margin-top: 200px;
+    line-height: 30px;
+}
+
+.font{
+
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#feedback{
+    background-color: red;
+}
+
